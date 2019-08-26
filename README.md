@@ -1,2 +1,3 @@
 # git-github
-Welcome to git
+Welcome to github class
+today
